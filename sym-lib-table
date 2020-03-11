@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name ic)(type Legacy)(uri ${KIPRJMOD}/kicad_libs/symbols/ic.lib)(options "")(descr ""))
+  (lib (name other)(type Legacy)(uri ${KIPRJMOD}/kicad_libs/symbols/other.lib)(options "")(descr ""))
+  (lib (name shields)(type Legacy)(uri ${KIPRJMOD}/kicad_libs/symbols/shields.lib)(options "")(descr ""))
+)
